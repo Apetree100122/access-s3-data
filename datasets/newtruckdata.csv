@@ -1,5 +1,15 @@
-date,trucktype,mileage
-01/03/21,ford,125
-01/14/21,gmc,200
-01/02/21,ford,187
-01/17/21,ford,230
+date,  truck_type ,mileage
+01/03/21, ford,     125 
+01/14/21, gmc,      200
+01/02/21, ford,     187
+01/17/21, ford,     230
+
+2021/01/03  Ford    35  (000)
+2021/01/14  GMC     22
+2021/01/02  Ford    57
+2021/01/17  Ford    58
+
+results returned 
+2021/01/19        FORD  (35)(57)(58)=150
+                  GMC   (22)
+150/22= 6.8
